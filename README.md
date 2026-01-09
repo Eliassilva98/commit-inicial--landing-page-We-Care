@@ -21,7 +21,10 @@ Cada projeto faz parte da minha evolução, e este marca o início do meu desenv
 <img src='https://cdn-icons-png.flaticon.com/128/174/174854.png' width='50'>
 <img src='https://cdn-icons-png.flaticon.com/128/15474/15474190.png' width='50'>
 </div>
+<br>
 
 📌 Projeto criado para fins de estudo e evolução contínua no desenvolvimento front-end.
 <br>
-<img src=''>
+<br>
+<img src='https://github.com/Eliassilva98/commit-inicial--landing-page-We-Care/blob/main/We-Care-para-Readme.png?raw=true'>
+
